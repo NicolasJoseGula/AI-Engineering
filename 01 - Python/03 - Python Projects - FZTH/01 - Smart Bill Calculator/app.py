@@ -11,8 +11,9 @@ def calculate_discount(price, discount):
     return final_price
 
 def calculate_iva(price, iva):
-    
-    return True
+    iva_amount = price * iva / 100
+    price_with_iva = price + iva_amount
+    return price_with_iva
 
 def calculate_tip():
     return False
@@ -40,7 +41,7 @@ def main():
                     
                     final_price = calculate_discount(base_price, discount_percentage)
                     
-                    calculate_iva(final_price, vat_percentage)
+                    price_with_iva = calculate_iva(final_price, vat_percentage)
                     
                     calculate_tip()
                     
