@@ -11,14 +11,12 @@
             "id": "eb350aae9385225c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "05 - Practical MLOps/01 - Introduccion a MLOps.md",
-                "mode": "source",
-                "source": false
+                "file": "07 - Hands-On Large Language Models/images/Pasted image 20260322203639.png"
               },
-              "icon": "lucide-file",
-              "title": "01 - Introduccion a MLOps"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260322203639"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Practical MLOps/01 - Introduccion a MLOps.md",
+                "file": "07 - Hands-On Large Language Models/images/Pasted image 20260322203639.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01 - Introduccion a MLOps"
+              "title": "Backlinks for Pasted image 20260322203639"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Practical MLOps/01 - Introduccion a MLOps.md",
+                "file": "07 - Hands-On Large Language Models/images/Pasted image 20260322203639.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01 - Introduccion a MLOps"
+              "title": "Outgoing links from Pasted image 20260322203639"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Practical MLOps/01 - Introduccion a MLOps.md",
+                "file": "07 - Hands-On Large Language Models/images/Pasted image 20260322203639.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - Introduccion a MLOps"
+              "title": "Outline of Pasted image 20260322203639"
             }
           }
         ]
@@ -183,30 +181,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "eb350aae9385225c",
+  "active": "a82cba2e42df56cd",
   "lastOpenFiles": [
-    "05 - Practical MLOps/00 - Prefacio.md",
+    "07 - Hands-On Large Language Models/01 - Understand Language Models/01 - Una Introduccion a los Large Language Models.md",
+    "07 - Hands-On Large Language Models/images",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323012023.png",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323004507.png",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323004302.png",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323003830.png",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323003345.png",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323002825.png",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323002700.png",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323002546.png",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323002334.png",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260323002235.png",
+    "07 - Hands-On Large Language Models/00 - Prefacio.md",
+    "07 - Hands-On Large Language Models/01 - Understand Language Models",
+    "07 - Hands-On Large Language Models/README.md",
+    "06 - AI Engineering/README.md",
+    "07 - Hands-On Large Language Models/book.jpeg.crdownload",
+    "07 - Hands-On Large Language Models",
+    "06 - AI Engineering/book.jpeg.crdownload",
     "05 - Practical MLOps/01 - Introduccion a MLOps.md",
+    "06 - AI Engineering",
+    "05 - Practical MLOps/00 - Prefacio.md",
     "05 - Practical MLOps/README.md",
     "04 - Designing Machine Learning Systems/00 - Prefacio.md",
-    "05 - Practical MLOps/book.jpeg",
     "05 - Practical MLOps/book.jpeg.crdownload",
     "05 - Practical MLOps",
     "04 - Designing Machine Learning Systems/README.md",
     "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/Part 01. The Fundamentals of Machine Learning/01. The Machine Learning Landscape.md",
-    "04 - Designing Machine Learning Systems/book.jpeg",
     "04 - Designing Machine Learning Systems/book.jpeg.crdownload",
     "04 - Designing Machine Learning Systems",
     "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/00 - Prefacio.md",
-    "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/Part 01. The Fundamentals of Machine Learning",
-    "Pasted image 20260322203639.png",
     "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/README.md",
-    "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/00 - Prefacio",
     "02 - Designing Data-Intensive Applications/01 - Compromisos en la arquitectura de sistemas de datos.md",
-    "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/book.jpeg",
-    "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/descarga.jpeg",
-    "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/descarga.jpeg.crdownload",
-    "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch",
     "02 - Designing Data-Intensive Applications/00 - Prefacio.md"
   ]
 }
