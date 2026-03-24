@@ -11,12 +11,14 @@
             "id": "eb350aae9385225c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "07 - Hands-On Large Language Models/images/Pasted image 20260322203639.png"
+                "file": "01 - Python for Data Analysis/02 - Fundamentos del lenguaje Python, IPython y Jupyter Notebooks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260322203639"
+              "icon": "lucide-file",
+              "title": "02 - Fundamentos del lenguaje Python, IPython y Jupyter Notebooks"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 662.5
+    "width": 483.5,
+    "collapsed": true
   },
   "right": {
     "id": "d3108563b9f6e33c",
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Hands-On Large Language Models/images/Pasted image 20260322203639.png",
+                "file": "01 - Python for Data Analysis/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20260322203639"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -111,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Hands-On Large Language Models/images/Pasted image 20260322203639.png",
+                "file": "01 - Python for Data Analysis/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20260322203639"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -154,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Hands-On Large Language Models/images/Pasted image 20260322203639.png",
+                "file": "01 - Python for Data Analysis/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260322203639"
+              "title": "Outline of README"
             }
           }
         ]
@@ -181,8 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a82cba2e42df56cd",
+  "active": "eb350aae9385225c",
   "lastOpenFiles": [
+    "01 - Python for Data Analysis/README.md",
+    "01 - Python for Data Analysis/02 - Fundamentos del lenguaje Python, IPython y Jupyter Notebooks.md",
+    "01 - Python for Data Analysis/book.jpeg",
+    "Libros de O’Reilly para estudiar LLMs, prompt_context engineering, agentes, RAG, evals y LLMOps.pdf",
+    "07 - Hands-On Large Language Models/images/Pasted image 20260322203639.png",
     "07 - Hands-On Large Language Models/01 - Understand Language Models/01 - Una Introduccion a los Large Language Models.md",
     "07 - Hands-On Large Language Models/images",
     "07 - Hands-On Large Language Models/images/Pasted image 20260323012023.png",
@@ -193,8 +201,6 @@
     "07 - Hands-On Large Language Models/images/Pasted image 20260323002825.png",
     "07 - Hands-On Large Language Models/images/Pasted image 20260323002700.png",
     "07 - Hands-On Large Language Models/images/Pasted image 20260323002546.png",
-    "07 - Hands-On Large Language Models/images/Pasted image 20260323002334.png",
-    "07 - Hands-On Large Language Models/images/Pasted image 20260323002235.png",
     "07 - Hands-On Large Language Models/00 - Prefacio.md",
     "07 - Hands-On Large Language Models/01 - Understand Language Models",
     "07 - Hands-On Large Language Models/README.md",
@@ -212,7 +218,6 @@
     "04 - Designing Machine Learning Systems/README.md",
     "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/Part 01. The Fundamentals of Machine Learning/01. The Machine Learning Landscape.md",
     "04 - Designing Machine Learning Systems/book.jpeg.crdownload",
-    "04 - Designing Machine Learning Systems",
     "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/00 - Prefacio.md",
     "03 - Hands-On Machine Learning with Scikit-Learn and pyTorch/README.md",
     "02 - Designing Data-Intensive Applications/01 - Compromisos en la arquitectura de sistemas de datos.md",
